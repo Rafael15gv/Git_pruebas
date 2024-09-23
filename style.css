@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.titulos {
+  font-size: 11pt;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.titulos td {
+  padding: 1px 30px 1px 30px;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.grados {
+  text-align: center;
+}
